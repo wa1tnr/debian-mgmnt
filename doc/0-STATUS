@@ -1,0 +1,11 @@
+Mon Jan  6 16:42:00 UTC 2020
+
+STATUS
+
+Initial commit for project.
+
+Intent is to show (first) a bit how apt-get upgrade works
+to incrementally bring in correct latest versions of
+previously-installed system software (limited in scope to
+official Debian repository-based updating).
+
